@@ -1,0 +1,6 @@
+{
+    "nombre": "Esteban",
+    "apellido": "Bennett",
+    "edad": "37",
+    "clases": ["ad", "di"]
+}
